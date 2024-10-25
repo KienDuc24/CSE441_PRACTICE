@@ -7,7 +7,7 @@
     <layouts>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
         <config>
-          <theme>@style/Theme.Ex09</theme>
+          <theme>@style/Theme.Service</theme>
         </config>
       </layout>
     </layouts>
@@ -16,7 +16,18 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc87680e-1854-4dc6-83a1-cd31e807d5c1" name="Changes" comment="" />
+    <list default="true" id="41e406ba-4494-4ba0-a616-6ca251c6c58d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Ex04/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex04/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex09/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex09/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex09/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/tlu/edu/vn/ht63/service/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/tlu/edu/vn/ht63/ex09/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/tlu/edu/vn/ht63/service/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/tlu/edu/vn/ht63/ex09/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/tlu/edu/vn/ht63/service/MusicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/tlu/edu/vn/ht63/ex09/MusicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/tlu/edu/vn/ht63/service/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/tlu/edu/vn/ht63/ex09/ExampleUnitTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,30 +42,23 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Ex09" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
-  <component name="ProjectId" id="2nVJG0UWbsWFjb35XmmMFDDPsjg" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2mv2qKF8CLEOcOw55b9gwP8gBbp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,13 +72,20 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ADMIN/Android/Service"
+    "last_opened_file_path": "C:/Users/ADMIN/Android/CSE441_PRACTICE/Ex10"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\Android\Service\app\src\main\res" />
+      <recent name="C:\Users\ADMIN\Android\Service\app\src\main\res\drawable" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="Ex09.app.main" />
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Service.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -143,11 +154,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bc87680e-1854-4dc6-83a1-cd31e807d5c1" name="Changes" comment="" />
-      <created>1729052209294</created>
+      <changelist id="41e406ba-4494-4ba0-a616-6ca251c6c58d" name="Changes" comment="" />
+      <created>1727942918757</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1729052209294</updated>
+      <updated>1727942918757</updated>
     </task>
     <servers />
   </component>
